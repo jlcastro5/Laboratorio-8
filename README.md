@@ -2,50 +2,61 @@
 1. OBJETIVOS 
 
    Objetivo general
-   * Analizar y comprobar de forma teórica y experimental las caracteristicas que tienen las señales senosoidales mediante la implementacion de un osciloscopio, el cual sera de gran utilidad en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, de esta manera los estudiantes se familiarizan con las ondas senosoidales y a su vez con el instrumento mediante el uso de simuladores virtuales para de esta manera obtener destreza al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito.
-
+   
+   Comprobar experimentalmente el funcionamiento y comportamiento de la onda senoidal y los valores que abarca tanto en grafica como en numero 
+   mediantes los quipos de mediciones y colocacion correcta de cada componente.
 
    Objetivos específicos
    
-   * Replicar el circuito eléctrico propuesto por el docente y elaborar un circuito simplificado en el simulador DCACLAB.
-   * Implementar los conocimientos adquiridos en clases e analizar los resultados del osciloscopio.
-   * Tomar de medidas de las frecuencias y los valores pico a pico y responder las interrograntes del presente laboratorio.
-
+   * Desarrollar el circuito esquematico en los simuladores correspondientes para su verificacion de datos.
+   * Comprender las diferentes caracteristicas de un osciloscopio y multimetro.
    
 2. MARCO TEORICO
 
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/1d680b6deaaf4716b069324218879a749a144a2f/labo8.jpeg)
   
 3. EXPLICACION DEL PROCEDIMIENTO
+
+   Ajuste el generador de funciones, para que proporcione una señal de **20 Vpp** a una frecuencia de **2.5 Khz.**
    
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/2a7f2e6fff715b3b452438a1d283f60adaf17b71/Elementos.PNG)
    
+   **Circuito Esquematico**
+   
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/2a7f2e6fff715b3b452438a1d283f60adaf17b71/Circuito%20Esquematico.PNG)
+   
+   Colocacion del osciloscopio y observacion de datos.
    
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/2a7f2e6fff715b3b452438a1d283f60adaf17b71/Osciloscopio.PNG)
    
+   Comparacion de datos en el simulador de proteus en este caso utilizamos dicho simulador para comprobar los valores obtenidos en el DECAClab
+   
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/2a7f2e6fff715b3b452438a1d283f60adaf17b71/Proteus.PNG)
    
+   Colocacion del multimetro para verificacion del voltaje mediante numeros digitales
+   
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/2a7f2e6fff715b3b452438a1d283f60adaf17b71/Multimetro.PNG)
+   
+   En nuestor simulador de proteus la colocacion del voltimetro AC para comprobar el valor obtenido en DECAClab con proteus.
    
    ![](https://github.com/jlcastro5/Laboratorio-8/blob/2a7f2e6fff715b3b452438a1d283f60adaf17b71/ProteusMultimetro.PNG)
   
  
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-  ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
+  * ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
   
   Valor pico se observa un cuadro y con un cuarto de divisiones 
 
-  ¿En qué valor está posicionada la perilla VOLTS/DIV? 
+  * ¿En qué valor está posicionada la perilla VOLTS/DIV? 
   
   Se encuentra en la posicion de 10 VOLTS/DIV 
   
-  ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
+  * ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida? 
   
   En el osciloscopio se muestra que abarca un ciclo completo de 4 cuadros.
 
-  ¿En qué valor está posicionada la perilla TIME/DIV?
+  * ¿En qué valor está posicionada la perilla TIME/DIV?
   
   Su posicion se encuentra en 0.1m
   
