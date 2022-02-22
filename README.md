@@ -46,7 +46,7 @@
 
   * ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida? 
   
-  Valor pico se observa un cuadro y con un cuarto de divisiones 
+  Valor pico se observa un cuadro y un tercio 
 
   * ¿En qué valor está posicionada la perilla VOLTS/DIV? 
   
