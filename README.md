@@ -2,11 +2,15 @@
 1. OBJETIVOS 
 
    Objetivo general
-   
+   * Analizar y comprobar de forma teórica y experimental las caracteristicas que tienen las señales senosoidales mediante la implementacion de un osciloscopio, el cual sera de gran utilidad en el proceso de tomar valores de frecuencia dentro de un circuito eléctrico con fuentes de corriente alterna, de esta manera los estudiantes se familiarizan con las ondas senosoidales y asu vez con el instrumento mediante el uso de simuladores virtuales para de esta manera obtener destreza al momento de tomar valores como la frecuencia, voltajes rms, valores pico a pico y la corriente del circuito.
+
 
    Objetivos específicos
    
-   * 
+   * Replicar el circuito eléctrico propuesto por el docente y elaborar un circuito simplificado en el simulador DCACLAB.
+   * Implementar los conocimientos adquiridos en clases e analizar los resultados del osciloscopio.
+   * Tomar de medidas de las frecuencias y los valores pico a pico y responder las interrograntes del presente laboratorio.
+
    
 2. MARCO TEORICO
 
