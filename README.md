@@ -63,12 +63,16 @@
   8.5.5¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla 
   del osciloscopio?
   
-  Amplitud de voltaje: 13.68  (V)
+  Amplitud de voltaje: 13.58  (V)  -  13.5(V)
+  
+  el ciclo cumple de 4 por lo tanto en TIME/DIV nos da el valor de 0.1ms por lo tanto nuestro periodo es
   
   Periodo: 0.4m(s)
 
   8.5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de 
   salida.
+  
+  aplicamos la formula f=1/T es cual nos arroja el valor de f.
   
   f: 2.5k (Hz) 
   
