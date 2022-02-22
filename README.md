@@ -10,7 +10,7 @@
    
 2. MARCO TEORICO
 
-   ![]()
+   ![](https://github.com/jlcastro5/Laboratorio-8/blob/1d680b6deaaf4716b069324218879a749a144a2f/labo8.jpeg)
   
 3. EXPLICACION DEL PROCEDIMIENTO
    
@@ -49,16 +49,16 @@
   del osciloscopio?
   
   Amplitud de voltaje: 13.68  (V)
+  
   Periodo: 0.4m(s)
-  
-  
+
   8.5.6 Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de 
   salida.
   
   f: 2.5k (Hz) 
   
   ω: 5000π(rad/s) 
-  ![]()
+  ![](https://github.com/jlcastro5/Laboratorio-8/blob/1d680b6deaaf4716b069324218879a749a144a2f/angular.PNG)
   
   85.7 Con el multímetro digital mida el voltaje de salida en RL: **9.704 V**
   
@@ -77,7 +77,11 @@
 
 6. CONCLUSIONES
 
-     * 
+     * Mediante la práctica se observo el comportamiento de la onda senoidal y sus características las se pueden obtener mediante cálculos
+      y analizar los valor de cada una se observar la diferencia de voltaje rms y voltaje pico al momento de realizar la práctica y comparar 
+      las mediciones con el osciloscopio y el multímetro digital.
+
+     * El Simulador DCACLAB resulta muy eficiaz para realizar mediciones con Osciloscopio por su exactitud y presición en las mediciones dadas.
 
 7. BIBLIOGRAFÍA 
 
